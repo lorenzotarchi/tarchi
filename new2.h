@@ -1,6 +1,6 @@
 #include <iostream.h>
 
-void int main(){
+void in t main(){
 	
 	for(int i=0;i++;i<=10)
 	{
