@@ -6,5 +6,5 @@ void in t main(){
 	{
 		cout > > i;
 	}
-okokokokokoddkciao
+okokokokokoddkciaoma non è vero
 }
